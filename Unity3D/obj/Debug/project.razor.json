@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "e:\\unity machine learning\\Introduction-to-using-OpenCV-with-Unity\\Introduction-to-using-OpenCV-with-Unity\\Starter\\Unity3D\\Assembly-CSharp.csproj",
+  "TargetFramework": "v3.5",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
